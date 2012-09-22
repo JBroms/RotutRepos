@@ -1,0 +1,66 @@
+﻿body { text-align: center; font-family:Segoe UI; font-size:11pt; }
+
+
+.contentArea { width: 900px; margin: 0px auto; text-align: left; padding:15px; }
+.goldTitle { font-family:Segoe UI; font-size:13pt; color:#999966; font-weight:bold; }
+.multilineInput { height:150px; width:600px; border:solid 1px Gray; }
+
+/* Header CSS */
+.headerUserHello { text-align:right; font-family:Segoe UI; font-size:11pt; }
+.headerBar { background-color:#111155; height:12px; } 
+.headerLinks { font-family:Arial; font-size:11pt; color:#999966; float:right; }
+.headerImageLogo { float:left; }
+.headerPadOne { padding-top:15px; }
+.headerPadTwo { padding-bottom:20px; }
+
+
+.dataMain { width:900px; padding-top:25px; }
+
+
+/* Course Page */
+.courseNameArea { font-family:Segoe UI; font-size:18pt; color:#999966; padding-bottom:10px; font-weight:bold; border-top:solid 1px #999966; }
+.courseNameColor { color:#111155; }
+.courseDescriptors { font-size:13pt; color:#111155; font-weight:bold; }
+.courseTableHeaderBackground { background-color:#111155; color:#999966; }
+.courseRequestTutorButton { border:solid 2px Black; background-color:Red; color:White; font-family:Segoe UI; font-size:11pt; font-weight:bold; height:25px; width:150px; text-align:center; }
+.courseCommentsTitle { font-family:Segoe UI; font-size:13pt; color:#111155; font-weight:bold; }
+.courseCommentAlternatingRow { background-color:#DDE6F0; }
+.courseAddCommentButtong { border:solid 2px #999966; background-color:#111155; color:White; font-family:Segoe UI; font-size:11pt; font-weight:bold; height:30px; width:150px; text-align:center; }
+
+/* Course Search Page */
+.courseSearchQueryInput { width:500px; }
+.courseSearchButton { border:solid 2px #999966; background-color:#111155; color:White; font-family:Segoe UI; font-size:11pt; font-weight:bold; height:30px; width:100px; text-align:center; }
+.courseSearchLinksTitle { font-family:Segoe UI; font-size:13pt; color:#999966; font-weight:bold; padding-bottom:10px; }
+.courseSearchSchoolTitle { text-align:center; font-family:Segoe UI; font-size:11pt; color:White; font-weight:bold; background-color:#111155; width:500px; height:20px; }
+.courseSearchDepartmentTitle { text-align:center;font-family:Segoe UI; font-size:11pt; color:#111155; font-weight:bold; background-color:#C2D9F2; width:500px; height:20px; }
+.courseSearchClassTitle { text-align:center;  font-family:Segoe UI; font-size:11pt; background-color:#DDE6F0; width:500px; height:20px; }
+
+
+/* Tutor Page */
+.tutorPictureArea { padding-right:15px; }
+.tutorImage { height:250px; width:300px; border:solid 2px Gray; }
+.tutorContentArea { text-align:left; }
+.tutorName { font-size:14pt; font-weight:bold; }
+.tutorRating { font-weight:bold; font-size:11pt }
+.tutorDetails { font-weight:bold; }
+.tutorRequestButton { border:solid 2px Black; background-color:Red; color:White; font-family:Segoe UI; font-size:11pt; font-weight:bold; height:25px; width:150px; text-align:center; }
+.tutorRequestArea { padding-top:15px; }
+
+/* Home Page */
+.loginArea { text-align:right; font-family:Segoe UI; font-size:11pt; }
+.loginButton { border:solid 2px #999966; background-color:#111155; color:White; font-family:Segoe UI; font-size:11pt; font-weight:bold; height:30px; width:60px; text-align:center; }
+.homeMainTextOne { text-align:center; border-top:solid 1px #999966; }
+.homeMainTextTwo { text-align:center; }
+.homeMainTextThree { font-family:lucida grande; font-size:24pt; color:#999966; }
+.homeForStudentsOne { font-family:Segoe UI Semibold; font-size:24pt; color:#111155; font-weight:bold; }
+.homeForStudentsTwo { font-family:Segoe UI Semibold; font-size:12pt; color:#111155; }
+.homeForTutorsOne { font-family:Segoe UI Semibold; font-size:24pt; color:#999966; font-weight:bold; }
+.homeForTutorsTwo { font-family:Segoe UI Semibold; font-size:12pt; color:#999966; }
+.homeVennArea { text-align:center; padding-top:20px; }
+.homeSignUpButton { border:solid 2px #999966; background-color:#111155; color:White; font-family:Segoe UI; font-size:16pt; font-weight:bold; height:40px; width:120px; text-align:center; }
+
+/* Footer */
+.footer { height:225px; width:100%; background-image:url(../images/bottomborder.png); text-align:center; font-family:Segoe UI; width:100%; font-size:9pt; color:#C0C0C0; }
+.footerLinksPadOne { padding-top:25px; }
+.footerUL { position:relative; list-style:none; margin:0; padding:3px; }
+.footerLI { display: inline; padding:5px; }
